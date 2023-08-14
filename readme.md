@@ -2,7 +2,7 @@
 
 welcome to my github!
 
-❖ Checkout my latest package, [copy-to-clipboard](https://github.com/clairelizbet/copy-to-clipboard) (CC0, 600KB gzipped)
+❖ Checkout my latest package, [copy-to-clipboard](https://github.com/clairelizbet/copy-to-clipboard) (CC0, 600 bytes gzipped)
 
 ❖ Browse my [public information request](https://github.com/clairelizbet/public-data-requests/tree/main/2021-01-12-DART) to DART (335 audio files related to the rapid transit system!)
 
